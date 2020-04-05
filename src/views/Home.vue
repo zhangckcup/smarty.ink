@@ -5,30 +5,11 @@
         <b-jumbotron header="Smarty.ink" lead="Use Bootstrap v4 Components for Vue.js 2 to Bulid.">
           <p>但由于本人毫无灵感，本网站除了首页，其他的不知道是什么。</p>
         </b-jumbotron>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
-        <p>There is Home page.</p>
+        
       </b-col>
       <b-col lg="3" class="d-none d-lg-block">
         <div class="palce-holder">
-
+          <p>place holedr</p>
         </div>
       </b-col>
     </b-row>
@@ -41,6 +22,9 @@ export default {
     onContext(ctx) {
       this.context = ctx
     }
+  },
+  created(){
+    document.title = "Smarty.ink -- Welcome!"
   }
 }
 </script>

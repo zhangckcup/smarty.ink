@@ -43,9 +43,6 @@ export default {
         width: 20px;
         height: 20px;
       }
-      .github{
-
-      }
     }
   }
 </style>
