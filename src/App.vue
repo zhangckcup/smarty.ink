@@ -16,5 +16,8 @@ export default {
 </script>
 
 <style lang="less">
-  
+  #app {
+    min-height: 100vh;
+    position: relative;
+  }
 </style>

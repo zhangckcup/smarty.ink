@@ -6,6 +6,25 @@
           <p>但由于本人毫无灵感，本网站除了首页，其他的不知道是什么。</p>
         </b-jumbotron>
         <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
+        <p>There is Home page.</p>
       </b-col>
       <b-col lg="3" class="d-none d-lg-block">
         <div class="palce-holder">
@@ -28,7 +47,8 @@ export default {
 
 <style lang="less">
   #home-container {
-    margin: 20px auto;
+    margin-top: 20px;
+    padding-bottom: 120px;
   }
   .palce-holder{
     height: 100%;
