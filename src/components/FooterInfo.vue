@@ -1,22 +1,16 @@
 <template>
-    <b-container class="footer">
-      <b-row >
-        <b-col>
-          <a href="https://github.com/zhangckcup/smarty.ink" class="github">
-            <p>Fork me on github: zhangckcup/smarty.ink</p>
-          </a>
-          <a href="http://www.beian.miit.gov.cn/">
-            <img src="@/assets/img/police-verified.png" ><p>京ICP备18048449号</p>
-          </a>
-        </b-col>
-      </b-row>
-    </b-container>
+  <div class=".footer">
+    <a href="https://github.com/zhangckcup/smarty.ink" class="github">
+      <p>Fork me on github: zhangckcup/smarty.ink</p>
+    </a>
+    <a href="http://www.beian.miit.gov.cn/">
+      <img src="@/assets/img/police-verified.png" ><p>京ICP备18048449号</p>
+    </a>
+  </div>
 </template>
 
 <script>
-export default {
-  
-}
+export default {}
 </script>
 
 <style lang="less">
